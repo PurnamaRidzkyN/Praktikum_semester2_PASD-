@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "mainAkar",
+      "request": "launch",
+      "mainClass": "mainAkar",
+      "projectName": "minggu 5_513f7671"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "mainFaktorial",
+      "request": "launch",
+      "mainClass": "mainFaktorial",
+      "projectName": "minggu 5_513f7671"
+    },
+    {
+      "type": "java",
+      "name": "mainSum",
+      "request": "launch",
+      "mainClass": "mainSum",
+      "projectName": "minggu 5_513f7671"
+    },
+    {
+      "type": "java",
+      "name": "mainpangkat",
+      "request": "launch",
+      "mainClass": "mainpangkat",
+      "projectName": "minggu 5_513f7671"
+    }
+  ]
+}
